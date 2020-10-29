@@ -1,0 +1,9 @@
+
+
+create table Student(sid number(10),sname varchar2(20));
+
+
+insert into Student values(101,'adam');
+insert into Student values(102,'abhi');
+
+
